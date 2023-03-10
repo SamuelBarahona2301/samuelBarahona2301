@@ -2,7 +2,7 @@
 
 <!--
 **SamuelBarahona2301/samuelBarahona2301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![logo](https://github.com/SamuelBarahona2301/samuelBarahona2301/blob/main/assets/1182204001_910215_0000000000_album_normal.jpg?raw=true)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![logo](https://github.com/SamuelBarahona2301/samuelBarahona2301/blob/main/assets/1182204001_910215_0000000000_album_normal.jpg?raw=true)
